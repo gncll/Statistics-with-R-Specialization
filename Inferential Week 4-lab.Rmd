@@ -1,6 +1,6 @@
 ---
 title: "Inference for categorical data"
-output: rmarkdown::github_document
+output: output: rmarkdown::github_document
 ---
 
 <div id="instructions">
