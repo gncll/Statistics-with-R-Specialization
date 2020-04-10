@@ -1,6 +1,6 @@
 ---
 title: "Foundations for inference - Confidence intervals"
-output: statsr:::statswithr_lab
+output: rmarkdown::github_document
 ---
 
 <div id="instructions">
