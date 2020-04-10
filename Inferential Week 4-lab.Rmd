@@ -1,6 +1,6 @@
 ---
 title: "Inference for categorical data"
-output: statsr:::statswithr_lab
+output: rmarkdown::github_document
 ---
 
 <div id="instructions">
