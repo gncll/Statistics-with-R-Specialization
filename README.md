@@ -1,6 +1,8 @@
 # Statistics-with-R-Specialization
 
-##DukeUniversity - Statistics With R Specialization
+## DukeUniversity -Statistics With R Specialization
+
+It includes four following courses, which are;
 
 ### 1. Introduction to Probability and Data with R
 
